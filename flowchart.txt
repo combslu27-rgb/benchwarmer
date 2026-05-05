@@ -1,0 +1,11 @@
+THE BENCHWARMER - SITE MAP
+---------------------------
+index.html (Home)
+  ├── news.html (JV News)
+  ├── courts.html (Local Courts)
+  ├── map.html (Pickup Map)
+  ├── events.html (Sports Calendar - Table)
+  ├── clips.html (Gym Class Clips)
+  ├── gallery.html (Photo Gallery)
+  ├── about.html (About Us)
+  └── connect.html (Join the Game - Form)

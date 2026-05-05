@@ -1,0 +1,16 @@
+body { font-family: 'Helvetica Neue', Arial, sans-serif; margin: 0; padding: 0; background-color: #f4f4f4; color: #333; line-height: 1.6; }
+header { background: #1b5e20; color: white; padding: 25px; text-align: center; border-bottom: 5px solid #ffca28; }
+nav { background: #222; padding: 12px; text-align: center; position: sticky; top: 0; z-index: 1000; }
+nav a { color: white; margin: 0 12px; text-decoration: none; font-weight: bold; font-size: 13px; text-transform: uppercase; letter-spacing: 1px; }
+nav a:hover { color: #ffca28; }
+.container { width: 90%; max-width: 1000px; margin: 30px auto; background: white; padding: 30px; border-radius: 12px; box-shadow: 0 5px 15px rgba(0,0,0,0.1); min-height: 60vh; }
+footer { text-align: center; padding: 25px; background: #222; color: #bbb; margin-top: 50px; font-size: 14px; }
+table { width: 100%; border-collapse: collapse; margin: 25px 0; font-size: 16px; }
+th, td { border: 1px solid #ddd; padding: 15px; text-align: left; }
+th { background-color: #1b5e20; color: white; }
+tr:nth-child(even) { background-color: #f9f9f9; }
+form { display: flex; flex-direction: column; max-width: 500px; margin: 20px auto; }
+input, select, textarea { margin-bottom: 15px; padding: 12px; border: 1px solid #ccc; border-radius: 6px; font-size: 16px; }
+button { background: #1b5e20; color: white; padding: 15px; border: none; cursor: pointer; font-weight: bold; border-radius: 6px; font-size: 16px; transition: 0.3s; }
+button:hover { background: #2e7d32; transform: translateY(-2px); }
+.box { background: #f0f0f0; border: 2px dashed #999; padding: 50px; text-align: center; margin: 15px 0; border-radius: 8px; color: #555; }
